@@ -3,4 +3,4 @@ Toolbox for using the Open Ontology-based Interoperable Information asset Metada
 
 For more information and support please contact:
 
-gideon Kruseman (gkruseman@gmail.com)
+Gideon Kruseman (gkruseman@gmail.com)
